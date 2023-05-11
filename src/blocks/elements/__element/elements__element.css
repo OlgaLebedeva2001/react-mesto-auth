@@ -1,0 +1,9 @@
+.elements__element {
+  /*width: 100%;*/
+  width: 282px;
+  min-height: 361px;
+  border-radius: 10px;
+  background-color: white;
+  object-fit: cover;
+  position: relative;
+}
